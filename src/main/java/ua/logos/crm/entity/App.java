@@ -14,7 +14,7 @@ public class App {
 		
 		
 		em.getTransaction().begin();
-		
+//		
 //		TeatcerDetails teatcerDetails = new TeatcerDetails();
 //		teatcerDetails.setEmail("Teatcher@com");
 //		teatcerDetails.setHobby("Programing");
